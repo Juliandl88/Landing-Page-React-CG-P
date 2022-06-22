@@ -52,17 +52,17 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-cart-arrow-down",
+      "icon": "fa fa-check fa-spin fa-3x",
       "name": "Servicios de Análisis de Hidrocarburos",
       "text": "Análisis, inspección y certificación de todo tipo de productos petrolíferos, tanto gases, como sólidos o líquidos."
     },
     {
-      "icon": "fa fa-cloud-download",
+      "icon": "fa fa-briefcase fa-spin fa-3x",
       "name": "Servicios para instalaciones y equipos industriales",
       "text": "Apoyamos su producción industrial, equipamiento, activos y procesos con nuestra experiencia y nuestros servicios a lo largo de sus operaciones y cadenas de suministro globales"
     },
     {
-      "icon": "fa fa-language",
+      "icon": "fa fa-wrench fa-spin fa-3x",
       "name": "Toma de Muestras de Productos Petrolíferos y Gas Natural",
       "text": "Para analizar una sustancia se deben tomar una o varias muestras representativas de ella y analizarlas es vital el correcto procedimiento para los posteriores análisis y tener unos resultados fiables."
     }
@@ -123,8 +123,8 @@
     }
   ],
   "Contact": {
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "phone": " 54 9 11 56 60 33 49",
+    "email": "info@gasypetroleoconsultores.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
