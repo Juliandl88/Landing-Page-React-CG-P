@@ -1,0 +1,154 @@
+{
+  "Header": {
+    "title": "Consultoría en Gas & Petroleo",
+    "paragraph": "Nuestros equipos especializado en el rubro de gas y petróleo cuentan con un profundo conocimiento, amplia experiencia y visión necesarias para ofrecerle soluciones prácticas adaptadas a su negocio."
+  },
+  "About": {
+    "paragraph": "Nuestros servicios para la industria del petróleo y energía, brindan soporte a las áreas de exploración y producción, ingeniería, distribución y almacenamiento, entre los que destacan inspección, certificación, análisis, calidad, capacitación y demás relacionadas con las actividades de la industria de hidrocarburos.",
+    "Why": [
+      "Experiencia de nuestro equipo",
+      "Soluciones prácticas",
+      "Direccionamiento de prioridades",
+      "Gestion de calidad"
+    ],
+    "Why2": [
+      "Soluciones integrales",
+      "Optimización de la producción",
+      "Consultoría estrategica",
+      "Implementación de mejoras"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Análisis para el Sector de Petróleo y Gas",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-large.jpg"
+    },
+    {
+      "title": "Inspección para el Sector de Petróleo y Gas",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-large.jpg"
+    },
+    {
+      "title": "Servicios de Ingeniería de Activos industriales",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-large.jpg"
+    },
+    {
+      "title": "Servicios para Refinería y Distribuidoras",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-large.jpg"
+    },
+    {
+      "title": "Análisis de Gas Licuado y Natural de Petróleo",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-large.jpg"
+    },
+    {
+      "title": "Toma de Muestras de hidrocarburos y Gas Natural",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-large.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Servicios de Análisis de Hidrocarburos",
+      "text": "Análisis, inspección y certificación de todo tipo de productos petrolíferos, tanto gases, como sólidos o líquidos."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Servicios para instalaciones y equipos industriales",
+      "text": "Apoyamos su producción industrial, equipamiento, activos y procesos con nuestra experiencia y nuestros servicios a lo largo de sus operaciones y cadenas de suministro globales"
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Toma de Muestras de Productos Petrolíferos y Gas Natural",
+      "text": "Para analizar una sustancia se deben tomar una o varias muestras representativas de ella y analizarlas es vital el correcto procedimiento para los posteriores análisis y tener unos resultados fiables."
+    }
+   
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Consultoría analítica",
+      "text": "Buscamos aumentar la rentabilidad de nuestros clientes reduciendo los costos de sus operaciones"
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Provisión de equipamiento",
+      "text": "Suminiestro de los mejores equipos de análisis y de laboratorio adaptados a sus exigencias"
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Asistencia técnica",
+      "text": "Evaluación de proyectos, auditoría de ingeniería, activación y seguimiento, puesta en marcha de proyectos"
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Asesoramiento",
+      "text": "Optimización de recursos, tercerización de servicios y adquisición de equipamiento específico"
+    }
+  ]
+}
