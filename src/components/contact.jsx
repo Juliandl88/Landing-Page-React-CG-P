@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import emailjs from 'emailjs-com'
+import Swal from 'sweetalert2'
 
 const initialState = {
   name: '',
@@ -20,17 +21,34 @@ export const Contact = (props) => {
     console.log(name, email, message)
     emailjs
       .sendForm(
-        'YOUR_SERVICE_ID', 'YOUR_TEMPLATE_ID', e.target, 'YOUR_USER_ID'
+        'service_wln6ngi', 'template_mr99p2m', e.target, 'GcDDpoN2_wItDq416'
       )
       .then(
         (result) => {
           console.log(result.text)
+          Swal.fire({
+            position: 'center',
+            icon: 'success',
+            title: 'Mensaje enviado correctamente',
+            showConfirmButton: false,
+            timer: 2500
+          })
           clearState()
         },
         (error) => {
           console.log(error.text)
         }
       )
+  }
+
+  const handleMessage = ()=>{
+    Swal.fire({
+      position: 'top-end',
+      icon: 'success',
+      title: 'Your work has been saved',
+      showConfirmButton: false,
+      timer: 1500
+    })
   }
   return (
     <div>
@@ -88,7 +106,7 @@ export const Contact = (props) => {
                   <p className='help-block text-danger'></p>
                 </div>
                 <div id='success'></div>
-                <button type='submit' className='btn btn-custom btn-lg'>
+                <button type='submit' onclick={()=>handleMessage} className='btn btn-custom btn-lg'>
                   Enviar mensaje
                 </button>
               </form>
@@ -100,12 +118,7 @@ export const Contact = (props) => {
              
             </div>
             <div className='contact-item'>
-              <p>
-                <span>
-                  <i className='fa fa-phone'></i> Teléfono
-                </span>{' '}
-                {props.data ? props.data.phone : 'loading'}
-              </p>
+              
             </div>
             <div className='contact-item'>
               <p>
